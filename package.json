@@ -49,6 +49,6 @@
     },
     "dependencies": {
         "get-pixels": "^3.3.2",
-        "quantize": "github:lokesh/quantize"
+        "quantize": "git+ssh://git@github:lokesh/quantize.git#master"
     }
 }
